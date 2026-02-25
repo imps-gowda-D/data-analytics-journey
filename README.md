@@ -1,8 +1,6 @@
 # data-analytics-journey
 A structured collection of my data analytics learning journey including SQL, Excel, Power BI, and Python projects.
 
-# Data Analytics Journey
-
 This repository documents my structured learning path in Data Analytics. 
 As a final-year BCA student, I am focusing on building strong fundamentals 
 in SQL, Excel, Power BI, and Python.
